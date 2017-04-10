@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -256,4 +257,48 @@
 }
 #features1-5 .mbr-section__col .mbr-header__text {
   color: #efefef;
+}
+
+
+
+#dropdown-menu-v .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-v .nav .link,
+#dropdown-menu-v .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-v .navbar,
+#dropdown-menu-v .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-v .dropdown-menu a:hover,
+#dropdown-menu-v .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-v .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-v .btn {
+  font-size: 11px;
+}
+#footer1-w P {
+  text-align: center;
+}
+#content4-x P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
+#content4-x .mbr-section__col .mbr-header__text {
+  font-size: 17px;
+}
+#content1-10 PRE {
+  font-family: 'Lora', serif;
+  font-size: 17px;
+}
+#content1-10 P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
 }
