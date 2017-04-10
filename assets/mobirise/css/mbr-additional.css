@@ -179,6 +179,9 @@
 #content5-u .mbr-article {
   color: #fff;
 }
+#content5-u .mbr-article P {
+  text-align: center;
+}
 #dropdown-menu-r .hide-buttons [data-button] {
   display: none !important;
 }
