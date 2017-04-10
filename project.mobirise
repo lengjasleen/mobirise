@@ -52,10 +52,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -97,7 +97,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -245,7 +245,7 @@
           "_anchor": "menu-c",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -276,7 +276,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -422,7 +422,7 @@
           "_anchor": "menu-r",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -453,7 +453,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -745,7 +745,7 @@
           "_anchor": "menu-x",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -776,7 +776,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1031,7 +1031,7 @@
           "_anchor": "menu-1g",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -1062,7 +1062,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1180,7 +1180,7 @@
           "_anchor": "menu-1k",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -1211,7 +1211,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1375,7 +1375,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1406,7 +1406,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1616,7 +1616,7 @@
           "_anchor": "menu-1x",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1647,7 +1647,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1917,7 +1917,7 @@
           "_anchor": "menu-26",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -1948,7 +1948,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2066,7 +2066,7 @@
           "_anchor": "menu-2n",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -2097,7 +2097,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intisubangportal.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"student info.html\">STUDENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"News and Event.html\">NEWS AND EVENT<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Virtual Tour.html\">VIRTUAL TOUR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">ACCOMODATION<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonial.html\">TESTIMONIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"features.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"log in.html\" target=\"_blank\">LOG IN</a></li>"
         },
         {
           "_name": "footer1",
