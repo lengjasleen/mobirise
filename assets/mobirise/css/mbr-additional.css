@@ -72,6 +72,83 @@
   text-align: center;
   color: #000000;
 }
+#content5-17 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-17 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-17 .mbr-article {
+  color: #fff;
+}
+#content5-18 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-18 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-18 .mbr-article {
+  color: #fff;
+}
+#content5-18 .mbr-article P {
+  text-align: center;
+}
+#content5-19 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-article {
+  color: #fff;
+}
+#content5-15 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-15 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-15 .mbr-article {
+  color: #000000;
+  text-align: center;
+}
+#content5-1a .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-1a .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1a .mbr-article {
+  color: #000000;
+}
+#content5-1b .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-1b .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1b .mbr-article {
+  color: #fff;
+}
+#content5-1b .mbr-article P {
+  text-align: center;
+  color: #000000;
+}
+#footer1-12 P {
+  text-align: center;
+}
 #dropdown-menu-9 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -99,6 +176,9 @@
 #header4-f H1 {
   color: #000000;
 }
+#footer1-12 P {
+  text-align: center;
+}
 #dropdown-menu-g .hide-buttons [data-button] {
   display: none !important;
 }
@@ -124,6 +204,9 @@
 }
 #contacts2-h UL {
   color: #ffffff;
+}
+#footer1-12 P {
+  text-align: center;
 }
 #dropdown-menu-k .hide-buttons [data-button] {
   display: none !important;
@@ -168,6 +251,9 @@
 }
 #msg-box2-p .mbr-article {
   color: #252525;
+}
+#footer1-12 P {
+  text-align: center;
 }
 #content5-u .mbr-header .mbr-header__text {
   text-align: center;
@@ -258,8 +344,9 @@
 #features1-5 .mbr-section__col .mbr-header__text {
   color: #efefef;
 }
-
-
+#footer1-12 P {
+  text-align: center;
+}
 
 #dropdown-menu-v .hide-buttons [data-button] {
   display: none !important;
@@ -294,11 +381,29 @@
 #content4-x .mbr-section__col .mbr-header__text {
   font-size: 17px;
 }
-#content1-10 PRE {
-  font-family: 'Lora', serif;
-  font-size: 17px;
+#dropdown-menu-11 .hide-buttons [data-button] {
+  display: none !important;
 }
-#content1-10 P {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#dropdown-menu-11 .nav .link,
+#dropdown-menu-11 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-11 .navbar,
+#dropdown-menu-11 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-11 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-11 .dropdown-menu a:hover,
+#dropdown-menu-11 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-11 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-11 .btn {
+  font-size: 11px;
+}
+#footer1-12 P {
+  text-align: center;
 }

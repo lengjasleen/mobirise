@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "NewSite-04-10_0036",
-    "currentPage": "portal main page.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 37,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -75,7 +75,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
         },
         {
           "_inherit": "header1",
@@ -204,7 +204,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
         },
         {
           "_inherit": "features1",
@@ -413,6 +413,321 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>keeping track on your children's honesty.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/document/d/1niOkOwIiRBVlFvX66izX_4SNwrfQJ6vOBo4Ik5PaEBI/pub\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-17",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "FEE INFORMATION",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "You can check the fee information by click on below. It will show you the invoice and term&amp; condition which show you how to do your payment.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-18",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "TIMETABLE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Check your children timetable frequently. So that you know what is going on with your children.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-19",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EXAMINATION TIMETABLE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-15",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "WARNING LETTER&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Warning letter not available for Jonathan Chng Yew Jin. You can refer to the example of warning letter that shows below.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/document/d/1sE76Bv0CcYd4roSes1_wV2L0LMiiFJUDJ939S_5breA/pub\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1a",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "ONLINE ENROLLMENT",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "We will direct you to the online enrollment portal. You can enroll your next subject and make your payment through there.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://iicsenrol.newinti.edu.my\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1b",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "PTPTN STATUS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Check your PTPTN to check status.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/document/d/10bAgYvRJbcA16Yes1TPKmSNS6l56Dk-kcLIi88hvHFw/pub\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 INTI SUBANG PARENTS PORTAL.&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -472,7 +787,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
         },
         {
           "_inherit": "header1",
@@ -513,13 +828,39 @@
           "title": "What is Parents portal?",
           "text": "Parent involvement is crucial to student academic success. The Parent &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Portal is a tool for you to stay informed and engaged in your child’s education. The Parent Portal gives parents and guardians access to:<br><br>View your child’s grades and transcript<br>See your child’s schedule<br>Monitor your child's attendance<br>Communicate with your child’s teachers<br>Stay current on homework, projects and deadlines<br>View contact information<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"information of student.html\" data-toolbar=\"-mbrBtnMove\">CLICK TO STUDENT INFORMATION</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 INTI SUBANG PARENTS PORTAL.&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
     "CONTACT US.html": {
       "settings": {
         "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
+        "meta_descr": "Site Creator Description",
+        "order": 5
       },
       "components": [
         {
@@ -656,13 +997,39 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 INTI SUBANG PARENTS PORTAL.&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
     "Academic calender.html": {
       "settings": {
         "title": "Web Page Maker Title",
-        "meta_descr": "Web Page Maker Description"
+        "meta_descr": "Web Page Maker Description",
+        "order": 6
       },
       "components": [
         {
@@ -737,11 +1104,11 @@
             "showTitle": true,
             "showText": true,
             "showButton": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -775,11 +1142,11 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -813,11 +1180,11 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -851,11 +1218,11 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -870,13 +1237,39 @@
           "title": "College Calendar AUP_NU_BBSNHU_May 2017.",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/document/d/1oR9WP4hCAooMeeaqp_dnc0Cd94wICQXxkkl4s7Aj8LA/pub\" data-toolbar=\"-mbrBtnMove\">VIEW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 INTI SUBANG PARENTS PORTAL.&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
     "grading scale.html": {
       "settings": {
         "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description"
+        "meta_descr": "Site Generator Description",
+        "order": 7
       },
       "components": [
         {
@@ -1119,7 +1512,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
         },
         {
           "_tags": [
@@ -1208,7 +1601,7 @@
           },
           "title2": "ATTENDANCE",
           "caption2": "College attendance is a baseline factor in determining student success. Inti gives you baseline information on the quality of a college, starting by engaging students and making sure they come to school regularly.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1232,7 +1625,7 @@
           },
           "title3": "FEES INFORMATION",
           "caption3": "Find information on payment for yout tuition and college fees, no matter what year of entry or student status, as well as details of any additional charges that you may incur during your studies.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -1256,7 +1649,7 @@
           },
           "title4": "<br><br>TIMETABLE",
           "caption4": "Confirm your timetable prior to the course start date as timetables are subject to change. View your current timetable through your student account. Please click on the following links to view the class timetable and class information such as lecturers for each class.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1361,7 +1754,7 @@
           },
           "title1": "<br>EXAMINATION TIMETABLE",
           "caption1": "Please click on the following links to view the latest draft of the exam timetables based on the different courses.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -1385,7 +1778,7 @@
           },
           "title2": "WARNING LETTER",
           "caption2": "Warning letters are offered to students who miss classes or absent for more than three times.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1409,7 +1802,7 @@
           },
           "title3": "<span style=\"font-family: inherit; line-height: 1.1em;\">ONLINE ENROLLMENT&nbsp;</span><br>",
           "caption3": "Click here to access inti online enrollment portal.<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://iicsenrol.newinti.edu.my\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -1433,7 +1826,7 @@
           },
           "title4": "<span style=\"font-family: inherit; line-height: 1.1em;\"><br></span><br><span style=\"font-family: inherit; line-height: 1.1em;\"><br></span><br><br>PTPTN",
           "caption4": "Click here to check the statements of ptptn.<br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/document/d/10bAgYvRJbcA16Yes1TPKmSNS6l56Dk-kcLIi88hvHFw/pub\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1474,13 +1867,39 @@
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 INTI SUBANG PARENTS PORTAL.&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
     "FAQs.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 8
       },
       "components": [
         {
@@ -1535,7 +1954,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
         },
         {
           "_tags": [
@@ -1568,6 +1987,16 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content4-x",
           "_params": {
             "paddingTop": 3,
@@ -1714,37 +2143,261 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 9
+      },
+      "components": [
+        {
           "_styles": {
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px"
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
             },
-            ".mbr-section__col .mbr-header__text": {
-              "font-size": "17px"
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-11",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/inti-international-university-logo-381x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "portal main page.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ABOUT.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"student info.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">STUDENT INFORMATION</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"student info.html#features1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student information</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Results</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Attendance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Fee information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-3\">Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Examination Timetable</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Warning Letter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">Online enrollment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"student info.html#features1-5\">PTPTN status</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-u\">Grading Scale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grading scale.html#content5-t\">Grading Calculator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ABOUT.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ADDITIONAL INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.thestar.com.my/\">Star Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1FTNKf-fVxtbec5MhlvAdnTgCRjEb7N_yxSsB7dVGkX4/pub\">Student Referral Incentives</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">What INTI provides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accomodation.html\">Accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://docs.google.com/document/d/1NHFPulP-BPh04MG-DIWOxX6KQx3bTnTYQsF4VkH08Hc/pub\">Transportation</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQs.html\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT US.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Academic calender.html\">ACADEMIC CALENDER</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-10",
-          "text": "<pre><p>How does one get a PowerSchool Parent Portal username and password?</p><p><span style=\"color: rgb(119, 119, 119); font-size: 15px; line-height: 27px; background-color: rgb(255, 255, 255);\">Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</span></p></pre>",
+          "_name": "footer1",
           "_styles": {
-            "PRE": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "17px"
-            },
             "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px"
+              "text-align": "center"
             }
-          }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 INTI SUBANG PARENTS PORTAL.&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 5,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BOOTSTRAP 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "RESPONSIVE",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14",
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "By John Smith posted July 30, 2015"
         }
       ]
     }
