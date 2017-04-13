@@ -2148,7 +2148,7 @@
           },
           "title": "LOG IN",
           "text": "Please log in to ur account",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">User Name</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Password</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://jasleenleng.github.io/mobirise/portal%20main%20page.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enter</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">User Name</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Password</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://thepurplehouse.com.my/our-hostels/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enter</a>  "
         }
       ]
     }
