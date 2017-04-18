@@ -935,8 +935,8 @@ h6,
 #menu-1x .close-icon::after {
   background-color: #ffffff;
 }
-#features2-25 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#slider-24 H2 {
+  text-align: center;
 }
 #menu-26 .hide-buttons .nav-btn {
   display: none !important;
